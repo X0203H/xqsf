@@ -1,0 +1,31 @@
+{
+  "list": [
+    {
+      "key": 1,
+      "RegulatoryBodyName": "北京分公司",
+      "RegulatoryBodyCoding": 8611,
+      "ManufacturerName": "外呼厂商-天润",
+      "CreationTime": "2023-04-11 05:05:39",
+      "status": "无效",
+      "operation": ""
+    },
+    {
+      "key": 2,
+      "RegulatoryBodyName": "北京分公司",
+      "RegulatoryBodyCoding": 8611,
+      "ManufacturerName": "外呼厂商-雪融融",
+      "CreationTime": "2023-04-11 05:05:39",
+      "status": "有效",
+      "operation": ""
+    },
+    {
+      "key": 3,
+      "RegulatoryBodyName": "北京分公司",
+      "RegulatoryBodyCoding": 8611,
+      "ManufacturerName": "外呼厂商-冰墩墩",
+      "CreationTime": "2023-04-11 05:05:39",
+      "status": "无效",
+      "operation": ""
+    }
+  ]
+}
